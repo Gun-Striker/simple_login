@@ -1,5 +1,6 @@
 body {
-  background: #27374D;
+  background: rgb(50,69,87);
+  background: radial-gradient(circle, rgba(50,69,87,1) 0%, rgba(35,57,74,1) 34%, rgba(53,78,105,1) 71%, rgba(65,88,119,1) 93%);
 }
 
 .container {
