@@ -113,16 +113,17 @@ button#login {
   cursor: pointer;
 }
 
-button#git-icon {
+a#git-icon {
   position: absolute;
   top: 0em;
   right: 0em;
   cursor: pointer;
-  padding: 0.63em 0.63em 0.63em 0.945em;
+  padding: 0.4em 0.6em 0.4em 0.745em;
   width: fit-content;
   border-radius: 0px 0px 0px 30px;
   border: none;
   background-color: #DDE6ED;
+  color: black;
 }
 
 i#github {
